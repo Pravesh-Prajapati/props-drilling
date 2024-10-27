@@ -1,0 +1,38 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.level {
+  /* border: 2px solid #3b82f6; */
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px 0;
+  /* background-color: white; */
+}
+
+
+
+.level-2 {
+  margin-left: 20px;
+}
+
+.level-3 {
+  margin-left: 40px;
+}
+
+.level-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.user-data {
+  font-size: 18px;
+  color: #0284c7;
+  padding: 10px;
+  background-color: white;
+  border-radius: 4px;
+  margin-top: 10px;
+}
